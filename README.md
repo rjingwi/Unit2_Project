@@ -36,8 +36,7 @@ GIF created with peek
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+It was challenging finding out how to update the items list, and design the overall layout
 
 ## License
 
