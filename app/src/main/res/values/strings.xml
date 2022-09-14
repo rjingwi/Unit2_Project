@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit2_Project</string>
+    <string name="submit">SUBMIT</string>
+    <string name="url">url</string>
+    <string name="price">PRICE</string>
+    <string name="name">NAME</string>
+</resources>
